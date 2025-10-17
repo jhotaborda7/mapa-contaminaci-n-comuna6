@@ -570,7 +570,7 @@
             if (event.target == modal) {
                 closeModal();
             }
-        }
+        }    
     </script>
 </body>
 </html>
